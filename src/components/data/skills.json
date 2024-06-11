@@ -1,0 +1,38 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "css.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "javascript.png"
+    },
+    {
+        "title": "TypeScript",
+        "imageSrc": "typescript.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "react.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "c.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "java.png"
+    },
+    {
+      "title": "Postgresql",
+      "imageSrc": "postgresql.png"
+    },
+    {
+        "title": "Postman",
+        "imageSrc": "postman.png"
+    }
+  ]

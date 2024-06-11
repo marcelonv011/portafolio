@@ -1,0 +1,17 @@
+[
+    {
+      "role": "Utilizacion de maquina virtual para gestión de proyectos",
+      "tecnologias": ["alphine linux", "ubuntu linux"],
+      "imageSrc": "linux.png"
+    },
+    {
+        "role": "UX/UI para prototipado de diseño web-mobile",
+        "tecnologias": ["figma"],
+        "imageSrc": "figma.png"
+    },
+    {
+        "role": "Metodologia agil",
+        "tecnologias": ["Scrum"],
+        "imageSrc": "scrum.png"
+    }
+  ]
